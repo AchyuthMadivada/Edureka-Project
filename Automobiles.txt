@@ -1,0 +1,6 @@
+car
+motorbikes
+train
+maruti
+ferrari
+lamborgini
